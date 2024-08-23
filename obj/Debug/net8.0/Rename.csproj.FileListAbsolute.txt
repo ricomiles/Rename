@@ -1,0 +1,14 @@
+/home/freezing/work/Rename/bin/Debug/net8.0/Rename
+/home/freezing/work/Rename/bin/Debug/net8.0/Rename.deps.json
+/home/freezing/work/Rename/bin/Debug/net8.0/Rename.runtimeconfig.json
+/home/freezing/work/Rename/bin/Debug/net8.0/Rename.dll
+/home/freezing/work/Rename/bin/Debug/net8.0/Rename.pdb
+/home/freezing/work/Rename/obj/Debug/net8.0/Rename.GeneratedMSBuildEditorConfig.editorconfig
+/home/freezing/work/Rename/obj/Debug/net8.0/Rename.AssemblyInfoInputs.cache
+/home/freezing/work/Rename/obj/Debug/net8.0/Rename.AssemblyInfo.cs
+/home/freezing/work/Rename/obj/Debug/net8.0/Rename.csproj.CoreCompileInputs.cache
+/home/freezing/work/Rename/obj/Debug/net8.0/Rename.dll
+/home/freezing/work/Rename/obj/Debug/net8.0/refint/Rename.dll
+/home/freezing/work/Rename/obj/Debug/net8.0/Rename.pdb
+/home/freezing/work/Rename/obj/Debug/net8.0/Rename.genruntimeconfig.cache
+/home/freezing/work/Rename/obj/Debug/net8.0/ref/Rename.dll
